@@ -26,7 +26,7 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Stanley Idesis <stan.idesis@gmail.com>",
+  "author": "Dorel Constantinescu <dorel.constantinescu@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dorelc/toastyplugin/issues"
